@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**raha-the-creator/raha-the-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Raha!👋
+MERN stack developer adept in all stages of advanced web development. Knowledgeable
+in user interface, testing, and debugging processes. Proficient in HTML, CSS3/SCSS/SASS,
+JavaScript | ES6 | TS, as well as other web tools, libraries, and frameworks. Able to
+effectively self-manage during independent projects, as well as collaborate in a team setting.
 
-Here are some ideas to get you started:
+Experienced freelance developer that worked with big clients in BC, Canada and Kazakhstan,
+such as bb.q chicken, BC Council for International Education, Seniors Services Society.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+HTML, CSS, SCSS, SASS, JavaScript, ES6, TypeScript, React.js, React Native, Next.js, Node.js, GraphQL, Material-UI, styled-components, Express.js, MySQL, MongoDB, PHP, WordPress, Adobe Creative Suite
+
+
+## 📫 How to Reach Me
+LinkedIn: https://www.linkedin.com/in/rakhymzhan-duisek/
