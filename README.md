@@ -6,7 +6,7 @@ JavaScript | ES6 | TS, as well as other web tools, libraries, and frameworks. Ab
 effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 Experienced freelance developer that worked with big clients in BC, Canada and Kazakhstan,
-such as [bb.q chicken]([url](https://bbqchickenca.com/)), [BC Council for International Education](https://bccie.bc.ca/), [Seniors Services Society]([url](https://www.seniorsservicessociety.ca/)).
+such as [bb.q chicken](https://bbqchickenca.com/), [BC Council for International Education](https://bccie.bc.ca/), [Seniors Services Society of BC](https://www.seniorsservicessociety.ca/).
 
 
 ## 🛠 Skills
