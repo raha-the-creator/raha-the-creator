@@ -1,4 +1,3 @@
-
 ## Hi, I'm Raha!👋
 MERN stack developer adept in all stages of advanced web development. Knowledgeable
 in user interface, testing, and debugging processes. Proficient in HTML, CSS3/SCSS/SASS,
@@ -7,6 +6,10 @@ effectively self-manage during independent projects, as well as collaborate in a
 
 Experienced freelance developer that worked with big clients in BC, Canada and Kazakhstan,
 such as [bb.q chicken](https://bbqchickenca.com/), [BC Council for International Education](https://bccie.bc.ca/), [Seniors Services Society of BC](https://www.seniorsservicessociety.ca/).
+
+
+## Check out my portfolio!
+https://raduye.vercel.app/
 
 
 ## 🛠 Skills
