@@ -17,6 +17,7 @@ LinkedIn: https://www.linkedin.com/in/rakhymzhan-duisek/
 
 ## 👨‍💻Recently finished working on Netflix clone using React + Firebase
 https://github.com/raha-the-creator/Netflix-clone
+
 Check it out: https://console.firebase.google.com/project/netflix-react-b154e/overview
 
 ## Check out my portfolio!
