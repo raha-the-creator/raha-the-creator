@@ -15,8 +15,9 @@ HTML, CSS, SCSS, SASS, JavaScript, ES6, TypeScript, React.js, React Native, Next
 ## 📫 How to Reach Me
 LinkedIn: https://www.linkedin.com/in/rakhymzhan-duisek/
 
-## 👨‍💻Currently working on Netflix clone using React + Firebase
+## 👨‍💻Recently finished working on Netflix clone using React + Firebase
 https://github.com/raha-the-creator/Netflix-clone
+Check it out: https://console.firebase.google.com/project/netflix-react-b154e/overview
 
 ## Check out my portfolio!
 https://raduye.vercel.app/
