@@ -11,14 +11,12 @@ such as [bb.q chicken](https://bbqchickenca.com/), [BC Council for International
 ## 🛠 Skills
 HTML, CSS, SCSS, SASS, JavaScript, ES6, TypeScript, React.js, React Native, Next.js, Node.js, GraphQL, Material-UI, styled-components, Express.js, MySQL, MongoDB, PHP, WordPress, Adobe Creative Suite
 
+## 👨‍💻Currently working on GenerDate
+[https://github.com/raha-the-creator/Netflix-clone](https://github.com/raha-the-creator/generdate)
 
 ## 📫 How to Reach Me
 LinkedIn: https://www.linkedin.com/in/rakhymzhan-duisek/
 
-## 👨‍💻Recently finished working on Netflix clone using React + Firebase
-https://github.com/raha-the-creator/Netflix-clone
-
-Check it out: https://netflix-react-b154e.web.app/
 
 ## Check out my portfolio!
 https://raduye.vercel.app/
