@@ -1,5 +1,5 @@
 ## Hi, I'm Raha!👋
-MERN stack developer adept in all stages of advanced web development. Knowledgeable
+Frontend developer adept in all stages of advanced web development. Knowledgeable
 in user interface, testing, and debugging processes. Proficient in HTML, CSS3/SCSS/SASS,
 JavaScript | ES6 | TS, as well as other web tools, libraries, and frameworks. Able to
 effectively self-manage during independent projects, as well as collaborate in a team setting.
