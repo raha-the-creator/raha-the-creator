@@ -14,8 +14,8 @@
 
 <br></br>
 
-### <h3 align="left">👨‍💻RECENT PROJECT - "GenerDate"</h3>
-- 🔭Recently finished app [GenerDate - plan your dates easier](https://generdate.vercel.app/)
+### <h3 align="left">💻MOST RECENT PROJECT - "GenerDate"</h3>
+🍒[GenerDate - plan your dates easier](https://generdate.vercel.app/)🍒
 
 
 <h3 align="left">Languages and Tools:</h3>
