@@ -3,7 +3,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=raha-the-creator&label=Profile%20views&color=0e75b6&style=flat" alt="raha-the-creator" /> </p>
  
     - 👨‍💻 MERN Stack developer
-    - 🥅 2023 Goal: Learn and implement AI, learn 5+ songs on guitar
+    - 🥅 2023 Goal: implement AI into personal projects, learn 5+ songs on guitar
     - ⚡ Fun fact: memes helped me to learn and improve my English 🤡
 
 ### <h3 align="left">📫 Connect with me:</h3>
